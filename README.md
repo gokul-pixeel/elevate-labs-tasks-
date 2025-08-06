@@ -1,13 +1,17 @@
-*what I did in the task 1
+Fake sender address: “service@realme.com” (trying to look like realme service center)
 
-1. I downloaded N-map from official site 
-2. then in cmd i got my ip address 
-3. i copied that ip address and pasted in nmap tool and ran a command nmap -sS 192.168.1.3/24
-4. then i got the output and saved them has task one
-5. then i downloaded wireshark 
-6. i ran the command tcp syn scan again in cmd so the wire shark started to check open ports for the ip address i gave 
-7. then i saved it has task 1 wire shark file.
+receviced address is :"wemebir379@hostbyt.com"(a temp mail)
 
-*tools used 
-1. n-map 
-2. wire shark
+the body of the email was to update the phone from attacking from virus and to click an url
+"https://realme-support-safety.com/"
+
+even though when virustotal website said its an safe url u cant open that url 
+
+websites used:
+
+1."https://emkei.cz/" : to send a fake email
+
+2."https://temp-mail.org/en/view/6893841f05a88d0038a9cfe4" : to create an fake email address
+
+3."https://www.virustotal.com/gui/url/39f31666951669624b6db5aba17d7384f8e1fc7a52f103294e2c8293c7052dda" : to check if the url is safe for not 
+
